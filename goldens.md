@@ -2,7 +2,7 @@
 Quick doggo reference guide for watching the gals
 ![gals](https://github.com/pynacl/assets/blob/main/IMG_8150.jpg)
 
-## Feeding Schedule (1 cup of food for each dog/meal)
+## Schedule (1 cup of food for each dog/meal)
 ```
 9:30am - breakfast
 11:30am - Ruby's pill
