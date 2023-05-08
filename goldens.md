@@ -1,8 +1,7 @@
 # Honey and Ruby
 Quick doggo reference guide for watching the gals
-![gals](https://github.com/pynacl/assets/blob/main/IMG_8150.jpg)
 
-## Schedule (1 cup of food for each dog/meal)
+## Schedule
 ```
 9:30am - breakfast
 11:30am - Ruby's pill
@@ -10,15 +9,14 @@ Quick doggo reference guide for watching the gals
 6:30pm - dinner
 11:30pm - Ruby's pill
 ```
-- Thoroughly rinse bowls with hot water (set nozzle to spray mode to blast off any old food remnants)
-- Leave enough water in the bottom to cover the base of the bowl, this will absorb into the food and helps a bit with digestion
-- Add 3 pumps of supplement during breakfast / dinner meals (do not include any supplements for lunch)
-- Each girl gets 1 cup of food per meal (there is a metal cup measuring scooper in the 
-- Shake bowl to stir in water and let stand for 30 seconds before setting down
+
+## Food
+_Note: Honey's bowl is near the door, Ruby's under the counter_
+- 1 cup of food for each dog/meal
+- clean bowls with hot water before each meal and leave a small amout of water in the bowl (this absorbs into the food and helps a bit with digestion)
 
 ## Medication
-![Example](https://github.com/pynacl/assets/blob/main/IMG_8260.jpg)
-Ruby gets 1 pill every 12 hours as listed above. It's very important to not mistakenly give the pill to Honey by accident as it can cause major cardiac issues.
+_Ruby gets 1 pill every 12 hours as listed above. It's very important to not mistakenly give the pill to Honey._
 1. Grab one pill pouch treat and rip in half
 2. Jam the pill into one half and squeeze it shut
 3. Give the pill containing half to **RUBY**, ensuring she swallows it
