@@ -1,5 +1,6 @@
 # Honey and Ruby
 Quick doggo reference guide for watching the gals
+![gals](https://github.com/pynacl/assets/blob/main/IMG_8150.jpg)
 
 ## Feeding Schedule (1 cup of food for each dog/meal)
 ```
