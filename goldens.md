@@ -14,6 +14,7 @@ Quick doggo reference guide for watching the gals
 _Note: Honey's bowl is near the door, Ruby's under the counter_
 - 1 cup of food for each dog/meal
 - clean bowls with hot water before each meal and leave a small amout of water in the bowl (this absorbs into the food and helps a bit with digestion)
+- (Breakfast / Dinner only): Add 3 pumps of joint supplement (brown glass bottle in pantry)
 
 ## Medication
 _Ruby gets 1 pill every 12 hours as listed above. It's very important to not mistakenly give the pill to Honey._
